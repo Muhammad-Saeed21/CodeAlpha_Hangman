@@ -1,6 +1,5 @@
 # CodeAlpha_Hangman
-A console-based Hangman game built in Python using loops, conditions, and lists. Created as a CodeAlpha internship task.
-A simple console-based Hangman game built using Python.  
+A console-based Hangman game built in Python using loops, conditions, and lists. Created as a CodeAlpha internship task. 
 This project was created as part of my **CodeAlpha Python Programming Internship**.
 
 ---
